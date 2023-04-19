@@ -15,7 +15,7 @@ Se trata de un microservicio implementado con Spring Boot, siguiendo buenas prá
 2. Ejecutar Maven Install (mvn install) para lanzar los tests y generar el ejecutable.
 3. Ejecutar el Jar generado (java -jar ProductosInditex-0.0.1.jar).
 4. Consultar documentación de la API (/doc/swagger-ui/index.html).
-5. Ejecutar pruebas.
+5. Ejecutar pruebas contra la API según los datos sobre precios finales facilitados.
 
 ## Autor
 Fidel
